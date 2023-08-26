@@ -12,7 +12,7 @@ const min = function(numbers) {
     }
   }
   // Return lowest number in array
-  return lowest;
+  return lowest
 };
  
 
