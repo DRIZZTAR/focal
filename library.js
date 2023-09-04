@@ -23,15 +23,10 @@ const library = {
     p01: { id: "p01", name: "Coding Music", tracks: ["t01", "t02"] },
     p02: { id: "p02", name: "Other Playlist", tracks: ["t03"] },
   },
+
+
+
 };
-
-/////////////////////////////
-// FUNCTIONS TO IMPLEMENT:
-/////////////////////////////
-
-// prints a list of all playlists, in the form:
-// p01: Coding Music - 2 tracks
-// p02: Other Playlist - 1 tracks
 
 //?printPlaylists
 const printPlaylists = function (playlists) {
